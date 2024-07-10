@@ -1,4 +1,5 @@
 Hello,Git!
 change------
+<<<<<<< HEAD
 love      masterText
-xiufu
+xiufu     hot-fixText
